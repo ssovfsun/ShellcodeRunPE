@@ -4,11 +4,6 @@
 
 <p>The loader implements a minimal RunPE-style execution flow without relying on the Windows loader.</p>
 
-<p>
-Author: <strong>Kowfsun</strong><br>
-Repository: <a href="https://github.com/ssovfsun/ShellcodeRunPE">https://github.com/ssovfsun/ShellcodeRunPE</a>
-</p>
-
 <hr>
 
 <h2>Overview</h2>
@@ -194,7 +189,7 @@ Use only on systems you own or have explicit permission to test.
 
 <h2>License</h2>
 
-<p>Provided as-is for research and learning purposes.</p>
+<p>Apache 2.0</p>
 
 <hr>
 
